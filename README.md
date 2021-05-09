@@ -1,7 +1,7 @@
 # Text_Summarization_ovgu
 **Introduction:**
 
-This is the github repository for the scientific team project on '**SEA: Summary Evaluation of Academic Publications with Unsupervised Methods**'.
+This is the github repository for the scientific team project on '**SEA: Summary Evaluation of Academic Publications with Unsupervised Methods**'. The file "SEA_report.pdf" is the report of the project.
 
 The motivation behind doing this project was to check whether the unsupervised evaluation methods for text summarization task give similar results when compared with the supervised evalution methods. We have used two datasets **CsPubSumm** and **AIPubSumm** which includes the urls for downloading the scientific papers. The papers were downloaded by doing webscraping from **Science Direct** website. Summary generation was done using four methods **TF_IDF, TextRank, LexRank and Ensemble (combination of TF-IDF+ TextRank)**. From the experiments, we can conclude that there is still a scope for proving our hypothesis by doing some more hyper parameter tuning and using differnt clustering methods.
 
