@@ -1,4 +1,4 @@
-# Text_Summarization_ovgu
+# Text_Summarization_ResearchPapers
 **Introduction:**
 
 This is the github repository for the scientific team project on '**SEA: Summary Evaluation of Academic Publications with Unsupervised Methods**'. The file "SEA_report.pdf" is the report of the project.
