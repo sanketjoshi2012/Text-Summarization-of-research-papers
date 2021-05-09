@@ -14,3 +14,6 @@ We have developed this project in **Python 3** and the packages available.
           
           1. Data Collection and pre-processing: This notebook takes the list of urls, downloads the files and creates 8 csv files AIPubSummIntro.csv, AIPubSummOC.csv, AIPubSummAbstarct.csv, AIPubSummHighlights.csv, CSPubSummIntro.csv, CSPubSummOC.csv, CSPubSummAbstarct.csv and CSPubSummHighlights.csv.
           2. Generation and Evaluation: This notebook takes the above generated 8 files and generates the summaries and evalautes the generated summaries. It also shows a few experiments that were conducted wrt to the validation of the geenrated summaries.
+
+**References**
+https://github.com/EdCo95/scientific-paper-summarisation#automatic-summarisation-of-scientific-papers
