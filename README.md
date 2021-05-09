@@ -10,4 +10,6 @@ We have developed this project in **Python 3** and the packages available.
 **Steps:**
 
 1. There are two text files with the list of urls "AIPubSumm.txt" and "CSPubSumm.txt". Use them to download the datasets AIPubSumm and CSPubSumm respectively.
-2. The process starts with the file data_collection_preprocessing which will take the list of urls, download the files and create 8 csv files AIPubSummIntro.csv, AIPubSummOC.csv, AIPubSummAbstarct.csv, AIPubSummHighlights.csv, CSPubSummIntro.csv, CSPubSummOC.csv, CSPubSummAbstarct.csv and CSPubSummHighlights.csv.
+2. There are two .ipynb files in the Notebooks folder
+          1. Data Collection and pre-processing: This notebook takes the list of urls, downloads the files and creates 8 csv files AIPubSummIntro.csv, AIPubSummOC.csv, AIPubSummAbstarct.csv, AIPubSummHighlights.csv, CSPubSummIntro.csv, CSPubSummOC.csv, CSPubSummAbstarct.csv and CSPubSummHighlights.csv.
+          2. Generation and Evaluation> This notebook takes the above generated 8 files and generates the summaries and evalautes the generated summaries. It also shows a few experiments that were conducted wrt to the validation of the geenrated summaries.
